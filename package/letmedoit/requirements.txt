@@ -29,7 +29,7 @@ pillow
 docker
 einops
 transformers==4.40.1
-torch==2.2.2
+torch==2.7.1
 torchvision==0.17.2
 sentence-transformers
 chromadb==0.4.24
